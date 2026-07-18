@@ -1,4 +1,4 @@
-#Linux Platform Labs test
+#Linux Platform Engineering
 
 Hands-on labs covering Linux Platform engineering skills.
 
